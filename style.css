@@ -1,1 +1,16 @@
- 
+ body {
+    background: #1ed7d4
+}
+
+h1 { 
+  text-align: center;  
+  color: chartreuse     ;
+} 
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: #FF0000;
+}        
