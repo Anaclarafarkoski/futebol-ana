@@ -1,51 +1,54 @@
-"O futebol é mais do que uma paixão nacional: é uma paixão mundial! Ainda que nós, brasileiros, quiséssemos que o futebol fosse uma invenção nacional, o mérito de sua criação é da Inglaterra. Esse esporte ganhou suas formas modernas no final do século XIX.
-
-No Brasil, o futebol se firmou como um esporte de massas: embora houvesse times elitistas, a grande maioria dos times de futebol que permanece até os dias de hoje se formou a partir de grupos de trabalhadores ou de estudantes que se reuniam para “jogar bola” no campinho do seu bairro.
-
-Uma curiosidade bastante interessante sobre o futebol nacional é que a primeira torcida organizada de que se tem notícia era composta por um grupo exclusivamente feminino. Trata-se da torcida organizada do Atlético Mineiro, cuja mãe de um dos fundadores do time, Dona Alice, fabricava bandeirinhas para que as moças, acompanhantes de seus namorados ou maridos, fossem ao estádio torcer pelo Atlético.
-
-Hoje em dia o cenário do futebol não é mais o mesmo da época de Dona Alice: o futebol está altamente profissionalizado. Os clubes menores viraram grandes empresas que lucram significativamente com a venda de jogadores das categorias de bases. O mesmo fazem os clubes maiores, mas com um adicional: vendem craques a preços altíssimos e colocam jogadores mais novos no lugar, para que se tornem também craques. Esse mecanismo retroalimenta a indústria do futebol.
-
-O desenvolvimento tecnológico também acompanha todo esse processo: são desenvolvidos novos materiais, cada vez mais resistentes e flexíveis, para chuteiras; materiais mais leves que auxiliam na respiração corporal durante as partidas; e bolas que, cada vez mais, diminuem seu atrito com o campo. Até esses equipamentos têm se tornado “estrelas” do futebol contemporâneo, basta olhar para o caso da bola feita especialmente para a Copa do Mundo de 2010, sediada pela África do Sul: a Jabulani. Pois é: a bola fabricada pela Adidas ganhou até nome, personificando um objeto de composição do esporte.
-
-O resultado desse processo fica claro quando ouvimos as pessoas mais velhas, como nossos pais ou avós, dizerem que o futebol não é mais o mesmo, e que, antigamente, se jogava com amor à camisa do seu time, e não pelos altos salários pagos hoje em dia. Porém, o que eles esquecem é que quase 90% dos jogadores profissionais brasileiros recebem salários irrisórios, e que estes, ainda que almejem um ganho de salário bastante alto, jogam sim por amor ao futebol.
-
-Ao menos aparentemente, não importa o quanto o futebol seja feito de contradições: ele atrai as massas do mundo todo, como nenhum outro esporte faz.
+<!doctype html>
+<html lang="pt.br">  
+<head>
+         <meta charset="utf-8">
+         <title>historia</title>
+         <link red="stylesheet"href="style.css">
+</head>
+<body>
 
 
-Por Paula Rondinelli
-Colaboradora Brasil Escola
-Graduada em Educação Física pela Universidade Estadual Paulista “Júlio de Mesquita Filho” – UNESP
-Mestre em Ciências da Motricidade pela Universidade Estadual Paulista “Júlio de Mesquita Filho” – UNESP
-Doutoranda em Integração da América Latina pela Universidade de São Paulo - USP"
+<h1>HISTÓRIA DA MÚSICA</h1>
 
-Veja mais sobre "Futebol" em: https://brasilescola.uol.com.br/educacao-fisica/futebol.htm" sede escolhida para a edição de 2011 da Copa América foi a Argentina, país quatorze vezes campeão desse torneio continental, com data entre os dias 1 a 24 de julho.
+<h2>LAURA AIDAR</h2>
+<h2>Escrito por Laura Aidar</h2>
+Arte-educadora, fotógrafa e artista visual
 
-A competição inclui as seleções dos dez países sul-americanos e convida mais duas seleções para participarem do campeonato. Além de Argentina, Colômbia, Brasil, Paraguai, Venezuela, Chile, Bolívia, Peru, Equador e Uruguai, foram convidadas as seleções mexicana e japonesa para a disputa da Copa América 2011. No entanto, devido ao terremoto e, consequentemente, ao tsunami que atingiram o Japão no início do ano de 2011, o Japão optou por recusar o convite, repassado à Costa Rica posteriormente.
+<p>A História da música é muito antiga, visto que desde os primórdios os homens produziam diversas formas de sonoridade.</p>
 
-A estrutura física argentina para o recebimento dos jogos conta com oito estádios, localizados em cidades diferentes: o “Estádio Monumental Núñez”, localizado em Buenos Aires, apresenta capacidade para 57.921 pessoas; o “Estádio Mario Alberto Kempez”, localizado em Córdoba, tem capacidade para 57.000 pessoas; o “Estádio 23 de Agosto”, localizado em San Salvador de Jujuy, tem capacidade para 23.000 pessoas; o “Estádio Ciudad de La Plata”, localizado em La Plata, tem capacidade para 53.000 pessoas; o “Estádio Malvinas Argentinas”, localizado em Mendonza, tem capacidade para 40.268 pessoas; o “Estádio Padre Ernesto Martearena”, localizado em Salta, tem capacidade para 20.408 participantes; o “Estádio del Bicentenário”, localizado em San Juan, tem capacidade para 25.000 pessoas; e o “Estádio Brigadier General Estanislao López”, localizado em Santa Fé, tem capacidade para 47.000 pessoas.
+<p> e a vida é muito para ser insignificante.>Esse é um tipo de arte que trabalha com a harmonia entre os sons, o ritmo, a melodia, a voz
+Todos esses elementos são importantes e podem nos transportar para outro tempo e espaço, resgatar memórias e reacender emoções.</p>
 
-A competição está organizada em três grupos (A, B e C), e cada um deles possui quatro países participantes:
+<p>Veremos como essa linguagem artística caminhou durante os séculos até os nossos dias para adquirir as características que possui hoje no Ocidente.</p>
 
-GRUPO A: Colômbia, Argentina, Bolívia e Costa Rica;
-  GRUPO B: Brasil, Paraguai, Venezuela e Equador;
-  GRUPO C: Chile, Uruguai, Peru e México.
+    <!-- POEMA DE NOITE -->
+   <p> Já gritei e pulei de tanta felicidade,<br>
+    já vivi de amor e fiz juras eternas,<br>
+    e quebrei a cara muitas vezes!<br>
+    <br>
+    Já chorei ouvindo música e vendo fotos,<br>
+    já liguei só para escutar uma voz,<br>
+    me apaixonei por um sorriso,<br>
+    já pensei que fosse morrer de tanta saudade<br>
+    e tive medo de perder alguém especial (e acabei perdendo).<br>
+    <br>
+    vivi!<br>
+    <br>
+    E ainda vivo!<br>
+    Não passo pela vida.<br>
+    E você também não deveria passar!<br>
+    <br>
+    Viva!<br>
+    <br>
+    Bom mesmo é ir à luta com determinação,<br>
+    abraçar a vida com paixão,<br>
+    perder com classe<br>
+    e vencer com ousadia,<br>
+    porque o mundo pertence a quem se atreve<br>
+    e a vida é muito para ser insignificante.Já gritei e pulei de tanta felicidade,<br>
+    já vivi de amor e fiz juras eternas,<br>
+    e quebrei a cara muitas vezes!</p>
 
-Os sorteios que definiam as partidas realizadas na primeira rodada da competição resultaram no seguinte quadro (apresentado segundo a ordem dos jogos durante o torneio):
-
-Após a primeira fase, segue a disputa das quartas de final da Copa América:
-
-A semifinal é composta de apenas dois jogos:
-
-A disputa de terceiro e quarto lugares se dá entre:
-
-Os dois primeiros lugares disputarão, então, a grande partida final:
-
-
-Por Paula Rondinelli
-Colaboradora Brasil Escola
-Graduada em Educação Física pela Universidade Estadual Paulista “Júlio de Mesquita Filho” – UNESP
-Mestre em Ciências da Motricidade pela Universidade Estadual Paulista “Júlio de Mesquita Filho” – UNESP
-Doutoranda em Integração da América Latina pela Universidade de São Paulo - USP"
-
-Veja mais sobre "A Copa América de 2011" em: https://brasilescola.uol.com.br/educacao-fisica/a-copa-america-2011.htm 
+    </body>
+    </html>
+ 
