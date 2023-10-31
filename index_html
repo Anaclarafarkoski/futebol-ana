@@ -1,13 +1,23 @@
-<!doutype html>
-<html lang="pt-br"   
-         <meta charset="utf-8"
-         <title>futebol</title>
-         <link red="stylesheet"href="styel.css">
+
+<!doctype html>
+<html lang="pt.br">  
+<head>
+         <meta charset="utf-8">
+         <title>historia</title>
+         <link red="stylesheet"href="style.css">
 </head>
 <body>
-<h1>futebol</h1>
+    <header>
+          <img scr="futebol" alt="imagens sober futebol">
+    </header>
 
-<h1>HISTÓRIA DA música</h1>
+    <main>
+
+     
+
+
+
+<h1>HISTÓRIA DA MÚSICA</h1>
 
 <h2>LAURA AIDAR</h2>
 <h2>Escrito por Laura Aidar</h2>
@@ -18,35 +28,43 @@ Arte-educadora, fotógrafa e artista visual
 <p> e a vida é muito para ser insignificante.>Esse é um tipo de arte que trabalha com a harmonia entre os sons, o ritmo, a melodia, a voz
 Todos esses elementos são importantes e podem nos transportar para outro tempo e espaço, resgatar memórias e reacender emoções.</p>
 
-<h1>Veremos como essa linguagem artística caminhou durante os séculos até os nossos dias para adquirir as características que possui hoje no Ocidente.
+<p>Veremos como essa linguagem artística caminhou durante os séculos até os nossos dias para adquirir as características que possui hoje no Ocidente.</p>
 
     <!-- POEMA DE NOITE -->
-   <p> Já gritei e pulei de tanta felicidade,
-    já vivi de amor e fiz juras eternas,
-    e quebrei a cara muitas vezes!
-    
-    Já chorei ouvindo música e vendo fotos,
-    já liguei só para escutar uma voz,
-    me apaixonei por um sorriso,
-    já pensei que fosse morrer de tanta saudade
-    e tive medo de perder alguém especial (e acabei perdendo).
-    
-    Mas vivi!
-    E ainda vivo!
-    Não passo pela vida.
-    E você também não deveria passar!
-    
-    Viva!
-    
-    Bom mesmo é ir à luta com determinação,
-    abraçar a vida com paixão,
-    perder com classe
-    e vencer com ousadia,
-    porque o mundo pertence a quem se atreve
-    e a vida é muito para ser insignificante.Já gritei e pulei de tanta felicidade,
-    já vivi de amor e fiz juras eternas,
+   <p> Já gritei e pulei de tanta felicidade,<br>
+    já vivi de amor e fiz juras eternas,<br>
+    e quebrei a cara muitas vezes!<br>
+    <br>
+    Já chorei ouvindo música e vendo fotos,<br>
+    já liguei só para escutar uma voz,<br>
+    me apaixonei por um sorriso,<br>
+    já pensei que fosse morrer de tanta saudade<br>
+    e tive medo de perder alguém especial (e acabei perdendo).<br>
+    <br>
+    vivi!<br>
+    <br>
+    E ainda vivo!<br>
+    Não passo pela vida.<br>
+    E você também não deveria passar!<br>
+    <br>
+    Viva!<br>
+    <br>
+    Bom mesmo é ir à luta com determinação,<br>
+    abraçar a vida com paixão,<br>
+    perder com classe<br>
+    e vencer com ousadia,<br>
+    porque o mundo pertence a quem se atreve<br>
+    e a vida é muito para ser insignificante.Já gritei e pulei de tanta felicidade,<br>
+    já vivi de amor e fiz juras eternas,<br>
     e quebrei a cara muitas vezes!</p>
+
+    </main>
+
+
+
 
     </body>
     </html>
  
+
+
