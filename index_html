@@ -8,8 +8,13 @@
 </head>
 <body>
     <header>
-          <img scr="futebol" alt="imagens sober futebol">
-    </header>
+          <img class="imagem" src="futebol.jpg" alt="imagens sober futebol">
+          <nay>
+
+
+
+
+        </header>
 
     <main>
 
@@ -17,13 +22,13 @@
 
 
 
-<h1>HISTÓRIA DA MÚSICA</h1>
+<h1>HISTÓRIA DO FUTEBOL</h1>
 
 <h2>LAURA AIDAR</h2>
 <h2>Escrito por Laura Aidar</h2>
 Arte-educadora, fotógrafa e artista visual
 
-<p>A História da música é muito antiga, visto que desde os primórdios os homens produziam diversas formas de sonoridade.</p>
+<p>A História do futebol é muito antiga, visto que desde os primórdios os homens produziam diversas formas de sonoridade.</p>
 
 <p> e a vida é muito para ser insignificante.>Esse é um tipo de arte que trabalha com a harmonia entre os sons, o ritmo, a melodia, a voz
 Todos esses elementos são importantes e podem nos transportar para outro tempo e espaço, resgatar memórias e reacender emoções.</p>
