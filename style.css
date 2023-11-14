@@ -1,16 +1,41 @@
+.imagem{ 
+  width: 500px;
+}
+
+nav{
+    
+    font-size: 30px;
+}
+
+nav li{
+     display: inline-flex;
+     margin-left:30%;
+}
+ 
+nav li:hover{
+
+    color: red;
+    font-size: 35px;
+    transition: 0.8s;
+
+}
+
+
+
  body {
-    background: #1ed7d4
+    background-color: #0bc7c4 
 }
 
 h1 { 
   text-align: center;  
-  color: chartreuse     ;
-} 
-
-p {
-    text-align: center;
 }
 
-em strong {
-    color: #FF0000;
-}        
+.centro{
+
+    text-align: center;
+    font-family:Cambria,Cochin,Georgia,Times,'Times New Roman',Serif;
+
+}
+    
+
+ 
