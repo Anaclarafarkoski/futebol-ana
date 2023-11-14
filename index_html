@@ -9,8 +9,10 @@
 <body>
     <header>
           <img class="imagem" src="futebol.jpg" alt="imagens sober futebol">
-          <nay>
-
+          <nav>
+             <ul><a href="index.html">inicio</a></ul>
+             <ul><a href="teoria.html">teoria futebol</a></ul>
+             <ul><a href="futebol.html"</ul>
 
 
 
